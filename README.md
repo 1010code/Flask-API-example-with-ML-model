@@ -1,6 +1,9 @@
 # Python Flask 架設機器學習 API
 此範例使用鳶尾花朵資料集進行 `XGBoost` 分類器模型訓練。將模型儲存起來，並使用 Flask 建置 API 介面提供輸入值預測。
 
+## 在開始前你必須觀看
+- [[Day 24] 儲存訓練好的模型](https://ithelp.ithome.com.tw/articles/10251172)
+
 ## Getting Started
 ### Clone Project
 你可以在本機直接使用 git 指令 clone 此專案並執行。
