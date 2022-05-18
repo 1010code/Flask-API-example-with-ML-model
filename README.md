@@ -28,3 +28,6 @@ python run.py
 ```
 
 running locally! Your app should now be running on [localhost:3000](http://localhost:3000/).
+
+### 故障排除
+- [出現 AttributeError: 'XGBClassifier' object has no attribute 'use_label_encoder‘](https://github.com/andy6804tw/2020-12th-ironman/issues/2)
